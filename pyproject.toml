@@ -1,0 +1,9 @@
+[project]
+name = "baynext-mcp"
+version = "0.1.0"
+description = "MCP server for Meridian MMM analysis (HTTP & STDIO)"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "fastmcp>=2.11.3",
+]

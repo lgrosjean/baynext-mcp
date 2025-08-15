@@ -1,2 +1,1 @@
-# baynext-mcp
-MCP server for interacting with Baynext API
+# Baynext MCP Server
